@@ -1,0 +1,76 @@
+﻿  main.cpp
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(50,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(51,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(52,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(53,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(68,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(68,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(68,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(71,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(71,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(71,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(120,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(121,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(125,75): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(126,76): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(149,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(149,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(149,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(152,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(152,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(152,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(170,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(171,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(181,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(182,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(187,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(188,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(229,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(230,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(255,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(290,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(290,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(290,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(290,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(291,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(291,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(291,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(291,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(293,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(293,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(293,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(293,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(294,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(294,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(294,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(294,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(296,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(296,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(296,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(296,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(297,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(297,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(297,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(297,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(378,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(378,13):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(378,13):
+  the missing variadic argument 2 is required by format string '%s'
+  C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(378,13):
+  this argument is used as a buffer size
+  
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(455,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(470,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(477,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(484,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(491,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(498,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(505,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(512,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(519,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(528,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\priom\OneDrive\Documents\vs\Project3\Project3\main.cpp(545,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project3.vcxproj -> C:\Users\priom\OneDrive\Documents\vs\Project3\x64\Debug\Project3.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
